@@ -1,7 +1,7 @@
 # AI-Studio-项目标题
 
 ## 项目描述
-由于github仓库大小限制 模型参数以及修改后的paddleseg可以从百度网盘获得 
+由于github仓库大小限制 模型参数以及修改后的paddleseg可以从百度网盘获得  相关训练数据可由比赛界面获得
 
 链接：https://pan.baidu.com/s/1UyB1oVSusq1nx2TNoYjA9Q 
 提取码：4leh
