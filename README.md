@@ -1,7 +1,7 @@
 # AI-Studio-项目标题
 
 ## 项目描述
-由于github仓库大小限制 模型参数可以从 https://aistudio.baidu.com/aistudio/projectdetail/2260665?shared=1 获得
+由于github仓库大小限制 模型参数可以从 https://aistudio.baidu.com/aistudio/projectdetail/2260665?shared=1 中挂载的model数据集获得
 
 ## 项目结构
 ```
